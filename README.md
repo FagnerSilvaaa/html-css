@@ -1,2 +1,2 @@
 # html-css
- Cusro de HTML5 e CCS3
+ Cusro de HTML5 / CSS3 / Javascript
